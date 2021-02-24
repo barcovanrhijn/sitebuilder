@@ -1,0 +1,11 @@
+.announcement 
+{
+  @extend .alert;
+  min-width: 100vw;
+  margin:auto;
+  text-align: center;
+  font-weight: 500;
+  border-radius: 0;
+  border: 1px solid transparent;
+}
+
